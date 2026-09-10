@@ -1,0 +1,39 @@
+{
+  "origin": "https://github.com/temporalio/api",
+  "openapi": [
+    {
+      "file": "openapi.json",
+      "source": "https://raw.githubusercontent.com/temporalio/api/master/openapi/openapiv3.yaml",
+      "openapi": "3.0.3",
+      "title": "",
+      "paths": 198
+    }
+  ],
+  "docs": [
+    {
+      "path": "docs/ops.html",
+      "source": "https://docs.temporal.io/ops",
+      "bytes": 67604
+    },
+    {
+      "path": "docs/server-frontend-api-reference.html",
+      "source": "https://docs.temporal.io/self-hosted-guide/server-frontend-api-reference",
+      "bytes": 48574
+    },
+    {
+      "path": "docs/cloud-api-keys.html",
+      "source": "https://docs.temporal.io/cloud/api-keys",
+      "bytes": 98243
+    },
+    {
+      "path": "docs/client-environment-configuration.html",
+      "source": "https://docs.temporal.io/references/client-environment-configuration",
+      "bytes": 59316
+    },
+    {
+      "path": "docs/api-reference.html",
+      "source": "https://docs.temporal.io/references/api-reference",
+      "bytes": 40998
+    }
+  ]
+}
