@@ -28,12 +28,12 @@
     {
       "path": "docs/client-environment-configuration.html",
       "source": "https://docs.temporal.io/references/client-environment-configuration",
-      "bytes": 64953
+      "bytes": 64965
     },
     {
       "path": "docs/api-reference.html",
       "source": "https://docs.temporal.io/references/api-reference",
-      "bytes": 46355
+      "bytes": 75143
     }
   ]
 }
