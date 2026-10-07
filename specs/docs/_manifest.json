@@ -13,7 +13,7 @@
     {
       "path": "docs/ops.html",
       "source": "https://docs.temporal.io/ops",
-      "bytes": 73207
+      "bytes": 73394
     },
     {
       "path": "docs/server-frontend-api-reference.html",
@@ -23,7 +23,7 @@
     {
       "path": "docs/cloud-api-keys.html",
       "source": "https://docs.temporal.io/cloud/api-keys",
-      "bytes": 103514
+      "bytes": 103713
     },
     {
       "path": "docs/client-environment-configuration.html",
