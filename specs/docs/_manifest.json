@@ -13,27 +13,27 @@
     {
       "path": "docs/ops.html",
       "source": "https://docs.temporal.io/ops",
-      "bytes": 75017
+      "bytes": 75045
     },
     {
       "path": "docs/server-frontend-api-reference.html",
       "source": "https://docs.temporal.io/self-hosted-guide/server-frontend-api-reference",
-      "bytes": 57724
+      "bytes": 57752
     },
     {
       "path": "docs/cloud-api-keys.html",
       "source": "https://docs.temporal.io/cloud/api-keys",
-      "bytes": 112603
+      "bytes": 112631
     },
     {
       "path": "docs/client-environment-configuration.html",
       "source": "https://docs.temporal.io/references/client-environment-configuration",
-      "bytes": 69123
+      "bytes": 69151
     },
     {
       "path": "docs/api-reference.html",
       "source": "https://docs.temporal.io/references/api-reference",
-      "bytes": 78818
+      "bytes": 78846
     }
   ]
 }
